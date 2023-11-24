@@ -1,0 +1,4 @@
+package com.example.cineteca.Model;
+
+public class ApiResponse {
+}
